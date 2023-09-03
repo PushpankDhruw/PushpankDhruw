@@ -22,3 +22,4 @@
 <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31n4pl3isknyibo6fng5jafr3ygi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31n4pl3isknyibo6fng5jafr3ygi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
