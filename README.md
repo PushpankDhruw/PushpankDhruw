@@ -7,7 +7,7 @@
       </a>
     </div>
     <div align="center">
-      <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31n4pl3isknyibo6fng5jafr3ygi&redirect=true" alt="Spotify Status"/>
+      <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31n4pl3isknyibo6fng5jafr3ygi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Status"/>
     </div>
   </div>
   <div style="flex: 1; padding: 0 10px;">
