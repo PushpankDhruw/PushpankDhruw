@@ -13,9 +13,7 @@
   </div>
   <div style="flex: 1; padding: 0 10px;">
     <div align="center">
-      <a href="https://app.daily.dev/pushpank_dhruw">
-        <img src="https://api.daily.dev/devcards/v2/0-VqGObpU.png?type=default&r=g90" width="356" alt="Pushpank Dhruw's Dev Card"/>
-      </a>
+    <a href="https://app.daily.dev/pushpank_dhruw"><img src="https://api.daily.dev/devcards/v2/0-VqGObpU.png?type=default&r=5zq" width="356" alt="Pushpank Dhruw's Dev Card"/></a>
     </div>
   </div>
 </div>
